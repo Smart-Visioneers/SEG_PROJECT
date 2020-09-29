@@ -19,7 +19,7 @@ Debra Bishara student #300191829
 Maxime Le Sage student #
 Quin Meidinger #300112591
 Samuel Okakwu student #
-Camden Richter student #
+Camden Richter student #300199050
 
 
 https://github.com/Smart-Visioneers/SEG_PROJECT
@@ -30,6 +30,6 @@ Debra Bishara: Debrab18
 Maxime Le Sage:
 Quin Meidinger: quinm2
 Samuel Okakwu:
-Camden Richter:
+Camden Richter: irlac
 
 GitHub Pages Link
