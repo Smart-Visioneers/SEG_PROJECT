@@ -22,8 +22,7 @@ Samuel Okakwu student #
 Camden Richter student #
 
 
-
-Github Organization/Repository Links
+https://github.com/Smart-Visioneers/SEG_PROJECT
 
 GitHub Accounts for Each Team Member
 Aissatou Balde:
