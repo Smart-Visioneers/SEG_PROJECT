@@ -15,7 +15,7 @@ Competitors & Similar Style Apps:
 
 
 Aissatou Balde student #
-Debra Bishara student #
+Debra Bishara student #300191829
 Maxime Le Sage student #
 Quin Meidinger #300112591
 Samuel Okakwu student #
@@ -26,7 +26,7 @@ https://github.com/Smart-Visioneers/SEG_PROJECT
 
 GitHub Accounts for Each Team Member
 Aissatou Balde:
-Debra Bishara:
+Debra Bishara: Debrab18
 Maxime Le Sage:
 Quin Meidinger: quinm2
 Samuel Okakwu:
