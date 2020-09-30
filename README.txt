@@ -22,6 +22,7 @@ Samuel Okakwu student #
 Camden Richter student #300199050
 
 
+Github Organization/Repository Link
 https://github.com/Smart-Visioneers/SEG_PROJECT
 
 GitHub Accounts for Each Team Member
@@ -33,3 +34,4 @@ Samuel Okakwu:
 Camden Richter: irlac
 
 GitHub Pages Link
+https://smart-visioneers.github.io/SEG_PROJECT/
