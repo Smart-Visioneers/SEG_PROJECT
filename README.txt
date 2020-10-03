@@ -18,7 +18,7 @@ Aissatou Balde student #
 Debra Bishara student #300191829
 Maxime Le Sage student #300194479
 Quin Meidinger #300112591
-Samuel Okakwu student #
+Samuel Okakwu student #300200869
 Camden Richter student #300199050
 
 
