@@ -30,7 +30,7 @@ Aissatou Balde:
 Debra Bishara: Debrab18
 Maxime Le Sage: olimaximus
 Quin Meidinger: quinm2
-Samuel Okakwu:
+Samuel Okakwu: samspark345
 Camden Richter: irlac
 
 GitHub Pages Link
