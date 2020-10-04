@@ -1,17 +1,17 @@
 READ ME
- PROJECT NAME:
+ PROJECT NAME: Smart Vision
  
- DESCRIPTION
+ DESCRIPTION: We are offering a customizable software to facilitate classes and make online learning easier and more organized for students and teachers.
  
-Problem
+Problem: Programs such as Brightspace offer no room for the personalization of given modules which can make it difficult for students/teachers to remain organized as everyone has different methods of learning/keeping up to date.
 
-Solution:
+Solution: We will create a program to allow online learning to be catered toward an individual's liking, in that it will be in the user's control to customize and rearrange the way in which their tasks, assignments, quizzes, etc are presented.
 
-Methodology:
+Methodology: 
 
-Ways of Monetization:
+Ways of Monetization: Ads, affiliate links
 
-Competitors & Similar Style Apps:
+Competitors & Similar Style Apps: Brightspace, Powerschool, Schoology
 
 
 Aissatou Balde student #
