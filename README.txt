@@ -14,7 +14,7 @@ Ways of Monetization: Ads, affiliate links
 Competitors & Similar Style Apps: Brightspace, Powerschool, Schoology
 
 
-Aissatou Balde student #
+Aissatou Balde student #300210487
 Debra Bishara student #300191829
 Maxime Le Sage student #300194479
 Quin Meidinger #300112591
@@ -26,7 +26,7 @@ Github Organization/Repository Link
 https://github.com/Smart-Visioneers/SEG_PROJECT
 
 GitHub Accounts for Each Team Member
-Aissatou Balde:
+Aissatou Balde:Aissatou5503
 Debra Bishara: Debrab18
 Maxime Le Sage: olimaximus
 Quin Meidinger: quinm2
