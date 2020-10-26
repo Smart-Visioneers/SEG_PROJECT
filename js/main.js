@@ -7,10 +7,10 @@ function title(){
         b = "Insert money grabbing scheme text here";
     } else if (filename === 'about.html'){
         t = "About the Visioneers";
-        b = "blah blah blah";
+        b = "Meet the visioneers";
     } else if (filename === 'packages.html'){
         t = "Packages and Pricing";
-        b = "Insert money grabbing scheme text here";
+        b = "Below are the packages that are available for the use of our software";
     }
     document.all['jumbotron'].innerHTML = '<h1 class="display-4" id="title">' + t + '</h1><p class="lead">' + b + '</p>';
 }
